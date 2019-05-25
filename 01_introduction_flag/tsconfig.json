@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "outDir": "lib",
+        "target": "esnext",
+        "declaration": true,
+        "alwaysStrict": true,
+        "diagnostics": true,
+        "help":true,
+        "strict": true,
+        "inlineSourceMap": true
+    },
+}
